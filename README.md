@@ -56,6 +56,7 @@ Place these `.pth` files in the root directory.
       num_draft_tokens: Number of tokens for the draft model.
 ```
 🙏 Acknowledgements
-Andrej Karpathy’s NanoGPT: Base for the GPT implementation.
-Speculative Decoding Researchers: For pioneering the technique.
-
+```bash
+    Andrej Karpathy’s NanoGPT: Base for the GPT implementation.
+    Speculative Decoding Researchers: For pioneering the technique.
+```
