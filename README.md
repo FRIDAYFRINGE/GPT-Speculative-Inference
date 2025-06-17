@@ -48,7 +48,6 @@ Place these `.pth` files in the root directory.
 ```
 ⚙️ Customization
    ```bash
-      Adjust these parameters in the notebook:
       max_length: Max tokens to generate.
       temperature: Controls randomness.
       top_k: Filters top K tokens.
