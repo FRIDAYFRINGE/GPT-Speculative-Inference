@@ -46,7 +46,7 @@ Place these `.pth` files in the root directory.
       Time: 9.09 seconds
       Speedup: 1.48x
       Acceptance Rate: 77%
-
+```
 ⚙️ Customization
    ```bash
       Adjust these parameters in the notebook:
@@ -54,7 +54,7 @@ Place these `.pth` files in the root directory.
       temperature: Controls randomness.
       top_k: Filters top K tokens.
       num_draft_tokens: Number of tokens for the draft model.
-
+```
 🙏 Acknowledgements
 Andrej Karpathy’s NanoGPT: Base for the GPT implementation.
 Speculative Decoding Researchers: For pioneering the technique.
