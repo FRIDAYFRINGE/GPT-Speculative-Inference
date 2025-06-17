@@ -12,8 +12,7 @@ SpeculativeNanoGPT implements **speculative decoding** for accelerating inferenc
   - 124M parameter **target model** (high-quality).
 - **Performance Comparison**: Speed and time comparisons between standard and speculative decoding.
 - **Customizable Parameters**: Supports `temperature` and `top_k` for diverse text generation.
-- **Modular Codebase**: Based on Andrej Karpathy’s NanoGPT.
-
+- 
 ## 🧠 Model Architecture
 
 Uses a simplified GPT architecture with:
